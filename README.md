@@ -5,7 +5,7 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/mishahmehta/) or email
 Here are some of the projects I have worked on over the last year.
 
 # Machine Learning
-## Project Breast Cancer Detection
+## Project Detecting breast cancer
 Built a classifier model to detect breast cancer. <br>
 
 Choosing a metric: It is important to set the metric of success before you actually implement the algorithm so you don't cheat. Since I was using an imbalanced dataset, instead of accuracy, I choose sensitivity as the model metric. The sensitivity of a test is its ability to determine the patient cases correctly. To estimate it, we should calculate the proportion of true positive in patient cases. Mathematically, this can be stated as: <br>
