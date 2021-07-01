@@ -8,7 +8,11 @@ Here are some of the projects I have worked on over the last year.
 ## Project Breast Cancer Detection
 Built a classifier model to detect breast cancer. <br>
 
-Choosing a metric: It is important to set the metric of success before you actually implement the algorithm so you don't cheat. Since I was using an imbalanced dataset, instead of accuracy, I choose sensitivity as the model metric. It is also important to know what is the score on the sensitivity metric previously, without using any machine learning algorithms so the metric can tell us whether the machine learning model is indeed better than humans to do the job. <br>
+Choosing a metric: It is important to set the metric of success before you actually implement the algorithm so you don't cheat. Since I was using an imbalanced dataset, instead of accuracy, I choose sensitivity as the model metric. The sensitivity of a test is its ability to determine the patient cases correctly. To estimate it, we should calculate the proportion of true positive in patient cases. Mathematically, this can be stated as: <br>
+Sensitivity = TP / (TP + FN) <br>
+TP: True Positive; FN: False Negative <br>
+
+It is also important to know what is the score on the sensitivity metric previously, without using any machine learning algorithms so the metric can tell us whether the machine learning model is indeed better than humans to do the job. <br>
 
 Built multiple models, namely logistic regression classifier, k-Nearest Neigbors (k-NN) classifier, support vector machine (SVM) classifier, kernel SVM classifier, Naive Bayes classifier, Decision Tree classifier, and Random Forest classifier. Code for all these algorithms can be found [here](https://github.com/mehtamishah/Breast-Cancer-Detection). <br>
 
