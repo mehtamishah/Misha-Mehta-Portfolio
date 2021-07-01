@@ -1,6 +1,6 @@
 I am a data scientist and a statistician. I am passionate about getting to the core of problems that matter and solving them efficiently. Sometimes, the efficient way involves using data which is where I come in as a data scientist. Data can be used for inspiration (**Analyst** for e.g. finding insights or trends), or to make a few high stakes decisions (**Statistician** for e.g. deciding which product to launch or which ads to air) or to automate multiple decisions (**Machine learning modeler** for e.g. making recommendations or detecting fraud). The tools used by analysts, statisticians and machine learning modelers are often the same. The difference is in what they are used for and how they are used. <br>
 
-You can find me on [LinkedIn](https://www.linkedin.com/in/mishahmehta/) or email me at mehtamishah@gmail.com <br>. You can check out my work on Tableau [here](https://public.tableau.com/profile/misha.h.mehta#!/).
+You can find me on [LinkedIn](https://www.linkedin.com/in/mishahmehta/) or email me at mehtamishah@gmail.com. You can check out my work on Tableau [here](https://public.tableau.com/profile/misha.h.mehta#!/). <br>
 
 Here are some of the projects I have worked on over the last year.
 
