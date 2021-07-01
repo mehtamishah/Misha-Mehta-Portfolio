@@ -20,8 +20,7 @@ roc_auc_score = 0.97
 ## Project Predicting net electrical energy output in a combined cycle power plant
 Built a model to increase efficiency and costs in a power plant — by predicting net hourly electric energy output. <br>
 
-Assumptions: In a real word scenario, these assumptions would be backed by evidence, either research or precedence.
-1. Improvement in prediction of electric energy output is linked to a desirable output such as energy savings, minimizing costs or maximizing revenue.
+Assumptions: Improvement in prediction of electric energy output is linked to a desirable output such as energy savings, minimizing costs or maximizing revenue. In a real word scenario, assumptions would be backed by evidence, either research or precedence. <br>
 
 Built multiple models, namely multiple linear regression, polynomial regression, support vector regression (SVR), decision tree regression, random forest regression and XGBoost regression. Code for all algoriths can be found [here](https://github.com/mehtamishah/Combined-Cycle-Power-Plant). <br>
 
